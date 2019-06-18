@@ -1,0 +1,7 @@
+{
+  "appId": "io.ionic.starter.ng.ud.course",
+  "appName": "ionic-ang",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
