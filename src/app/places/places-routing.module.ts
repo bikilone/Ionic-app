@@ -34,11 +34,6 @@ const routes: Routes = [
             path: "edit/:placeId",
             loadChildren:
               "./offers/eddit-offer/eddit-offer.module#EdditOfferPageModule"
-          },
-          {
-            path: ":placeId",
-            loadChildren:
-              "./offers/offer-bookings/offer-bookings.module#OfferBookingsPageModule"
           }
         ]
       },
